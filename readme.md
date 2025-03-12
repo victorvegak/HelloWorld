@@ -1,8 +1,10 @@
 # Overview
 
-Hello World Example project
+Hello World program written in Python showing integration with Visual Studio code and Python
 
-[Software Demo Video](http://youtube.link.goes.here)
+The program was created to do end to end integration with Visual Studio Code And Github
+
+[Software Demo Video](https://youtu.be/d7qAfr4Bx58)
 
 # Development Environment
 
