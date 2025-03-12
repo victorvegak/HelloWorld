@@ -7,8 +7,8 @@ Hello World Example project
 # Development Environment
 
 Python
-
+Visual Studio Code
 # Useful Websites
+[Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 
-{Make a list of websites that you found helpful in this project}
 
